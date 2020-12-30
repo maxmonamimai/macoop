@@ -1,9 +1,9 @@
 #-*- coding: utf-8 -*-
 
 
-import school
-from school import Student, SpecialStudent
-from school import *
+import macoop.school
+from macoop.school import Student, SpecialStudent
+from macoop.school import *
 
 def Test():
 	'''

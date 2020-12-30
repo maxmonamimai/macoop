@@ -12,14 +12,14 @@ DESCRIPTION = '\n\n'.join(LOAD_TEXT(_) for _ in [
 setup(
   name = 'macoop',      
   packages = ['macoop'], 
-  version = '0.0.1',  
+  version = '0.0.2',  
   license='MIT', 
   description = 'Create For Learing Only!!',
   long_description=DESCRIPTION,
   author = 'MC CHAKKRAPONG',                 
   author_email = 'furbierecords2@gmail.com',     
-  url = '-',  
-  download_url = '-',  
+  url = 'https://github.com/maxmonamimai/',  
+  download_url = 'https://github.com/maxmonamimai/macoop/archive/v0.0.2.zip',  
   keywords = ['oop', 'macoop', 'MC CHAKKRAPONG'],  
   classifiers=[
     'Development Status :: 3 - Alpha',     
